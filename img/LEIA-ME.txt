@@ -1,0 +1,3 @@
+Brasao ja incluido (brasao.png).
+Faltam as fotos dos pontos historicos: igreja-sao-francisco.jpg e casa-da-polvora.jpg
+(sem elas o site tenta a Wikipedia ou mostra um quadro azul).
